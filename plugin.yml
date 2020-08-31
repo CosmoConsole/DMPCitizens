@@ -1,0 +1,8 @@
+name: DMPCitizens
+main: email.com.gmail.cosmoconsole.bukkit.dmp.npcinterop.Main
+version: 1.0
+api-version: 1.13
+description: Allows players to hide death messages from NPCs in certain worlds.
+author: CosmoConsole
+depend: [DeathMessagesPrime]
+softdepend: [Citizens]

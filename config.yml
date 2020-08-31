@@ -1,0 +1,15 @@
+# if the config is empty, it's probably outdated - delete this file and reload!
+# Do not change this number unless you know what you are doing
+config-version: 1
+
+# General switch - this controls all NPC messages
+show-npc-messages: false
+
+# Here you can add worlds to configure whether to show the death message or not.
+# This overrides the above show-npc-messages setting.
+# Example:
+#   "world": true
+#   "world": false
+# to either show or hide the messages by NPCs in a certain world respectively
+world-overrides:
+
